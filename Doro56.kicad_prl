@@ -64,7 +64,7 @@
       39,
       40
     ],
-    "visible_layers": "fff37ff_ffffffff",
+    "visible_layers": "fff3fff_ffffffff",
     "zone_display_mode": 1
   },
   "git": {
@@ -74,7 +74,7 @@
     "ssh_key": ""
   },
   "meta": {
-    "filename": "GHNS.kicad_prl",
+    "filename": "Doro56.kicad_prl",
     "version": 3
   },
   "project": {
