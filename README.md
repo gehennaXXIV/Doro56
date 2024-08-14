@@ -14,32 +14,32 @@ QMK config - none yet
 ***
 ## PARTS
 | **COMPONENTS**             |  Qty  |  Remarks |
-| :--------------------- 		 | :---: | :------  |
-| Diodes 1N4148W (SMD)	 		 |  56   | SOD-123  |
-| MX Switch Sockets				   |  56   |          |
+| :--------------------- 	 | :---: | :------  |
+| Diodes 1N4148W (SMD)	 	 |  56   | SOD-123  |
+| MX Switch Sockets		     |  56   |          |
 | 2U PCB-Mount Stabilizers   |  04   |          |
-| Power Switch					     |  02   | MSK12C02 |
-| Reset Switch 		 			     |  02   | MJTP1250 |
+| Power Switch				 |  02   | MSK12C02 |
+| Reset Switch 		 		 |  02   | MJTP1250 |
 | JST 2 PH Right Angle Jack	 |  02   |          |
 | Rotary Encoder             |  02   | EC11 - acrylic case has enough clearance for 22mm knobs |
 
 ***
 | **MCU**                        |  Qty  |  Remarks |
-| :--------------------- 		     | :---: | :------  |
+| :--------------------- 		 | :---: | :------  |
 | Low Profile MCU sockets        |  04   |  Does not need to be expensive millmax sockets, the mcu socket footprint was modified to allow [sockets with thick pins to work](https://down-ph.img.susercontent.com/file/sg-11134201-7qvco-ley7fi4ef44v33)
-| Mill Max Pins					         |  48   |  Mouser 3320-0-00-15-00-00-03-0, or a cheaper one, harvested gold pins 5pin RGB header (just snip off the plastic parts)
+| Mill Max Pins					 |  48   |  Mouser 3320-0-00-15-00-00-03-0, or a cheaper one, harvested gold pins 5pin RGB header (just snip off the plastic parts)
 | Nice Nanos                     |  02   |  or NRF52840 clones
 | Li-Po Battery                  |  02   |  TAKE NOTE OF THE POLARITY BEFORE PLUGGING IT IN [Here's a tutorial on how to change the polarity.](https://www.youtube.com/watch?v=za-azgbZor8)
 
 ***
 | **CASE**                                |  Qty  |  Remarks |
-| :--------------------- 		              | :---: | :------  |
+| :--------------------- 		          | :---: | :------  |
 | [Acrylic Case](/Case/acrylic)           |  01   | maybe a 3DP one soon, but I'm very content with the acrylic case. LMK if you create one! |
-| M2 6mm Wafer Head Screws		            |  20   | Plate screws |
+| M2 5mm Wafer Head Screws		          |  20   | Plate screws
 | M2 10mm Round Standoff Spacer           |  10   | Plate standoffs, add +2mm if you need bottom clearance (see case readme) |
-| M2 8mm Wafer Head Screws		            |  32   | Case screws |
+| M2 8mm Wafer Head Screws		          |  32   | Case screws |
 | M2 13mm Round Standoff Spacer           |  16   | Case standoffs, add +2mm if you need bottom clearance (see case readme) |
-| Rubber Feet					                    |  08   | Currently the keyboard lays flat, I've yet to design a base layer for angled feet |
+| Rubber Feet					          |  08   | Currently the keyboard lays flat, I've yet to design a base layer for angled feet |
 
 ***
 ## FOOTPRINTS USED
