@@ -2,17 +2,18 @@
 W - 186.96mm - H 126.74mm (one side)
 
 * 3mm Top Layer
+
 	Optional: use 1 layer each half, this is if you need height clearance for your MCU. Otherwise, you can use 2x Top Layer:
 	* 3mm Upper Middle Layer (MCU Cutout)
 
 Middle Layers
-	Optional - use 2 layers each half:
-		* 5mm Middle Layer (usb + trrs cutout)
-		* 5mm Middle Layer (usb cutout)
+Optional - use 2 layers each half:
+	* 5mm Middle Layer (usb + trrs cutout)
+	* 5mm Middle Layer (usb cutout)
 
-	Optional - use 1 layer each half:
-		* 5mm Middle Layer (no usb cutout) 
-		* 3mm Middle Layer (no usb cutout)
+Optional - use 1 layer each half:
+	* 5mm Middle Layer (no usb cutout) 
+	* 3mm Middle Layer (no usb cutout)
 
 * 3mm Base Layer
 
