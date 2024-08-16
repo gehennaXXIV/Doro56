@@ -1,4 +1,4 @@
-![Image](/pics/case.jpg)
+![Image](/pics/case.png)
 
 
 W - 379.09mm - H 126.74mm
