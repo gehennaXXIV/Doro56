@@ -1,6 +1,5 @@
 
-W - 379.09mm - H 126.74mm
-
+W - 186.96mm - H 126.74mm (one side)
 
 * 3mm Top Layer
 
