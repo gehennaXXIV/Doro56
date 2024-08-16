@@ -1,7 +1,7 @@
 ![Image](/pics/case.png)
 
 
-W - 379.09mm - H 126.74mm
+W - 379.09mm - H 126.74mm (both sides)
 
 2 bottom can be either 3mm or 5mm, depending on the bottom clearance you want. This is mainly for batteries, just dont forget to add +2mm both case and plate brass standoffs too). 
 
