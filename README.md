@@ -12,8 +12,8 @@ It has a supporting json file for https://nickcoutsos.github.io/keymap-editor/
 QMK config - none yet
 
 Build Guide - none yet, but for tldr; 
-* solder mcu, trrs on top of the halve you are building. the mcu socket footprint was modified to allow [sockets with thick pins to work](https://down-ph.img.susercontent.com/file/sg-11134201-7qvco-ley7fi4ef44v33). you can either use milmax pins, or what i use, harvested gold pins from a 5 pin rgb header (also cheaper).
-* solder the jumpers on the mcu from under, and other components such as diodes and mx sockets.
+* solder mcu, trrs on top of the halve you are building. the mcu socket footprint was modified to allow [sockets with thick pins to work](https://down-ph.img.susercontent.com/file/sg-11134201-7qvco-ley7fi4ef44v33). you can either use milmax pins, or what i use, harvested gold pins from a 5 pin rgb header (also cheaper). [sample](/pics/sockets.jpg), [bridged jumpers](/pics/sockets.jpg)
+* solder the jumpers on the mcu from under, and other components such as diodes mx sockets, also power switch.
 
 ***
 ## PARTS
