@@ -15,6 +15,9 @@ Build Guide - none yet, but for tldr;
 * solder mcu, trrs on top of the halve you are building. the mcu socket footprint was modified to allow [sockets with thick pins to work](https://down-ph.img.susercontent.com/file/sg-11134201-7qvco-ley7fi4ef44v33). you can either use milmax pins, or what i use, harvested gold pins from a 5 pin rgb header (also cheaper). [sample](/pics/sockets.jpg)
 * bridge the [jumpers](/pics/bridge.jpg) on the mcu from under, and other components such as diodes mx sockets, also power switch.
 
+![Image](/pics/pcb.jpg)
+
+
 ***
 ## PARTS
 | **COMPONENTS**             |  Qty  |  Remarks |
