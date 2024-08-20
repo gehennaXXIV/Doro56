@@ -1,11 +1,12 @@
-![Image](/pics/case.png)
+![Case Image](/pics/case.png)
 
+**Dimensions:**  
+- Width: 379.09mm  
+- Height: 126.74mm (both sides)
 
-W - 379.09mm - H 126.74mm (both sides)
+The bottom layer can be either 3mm or 5mm thick, depending on the bottom clearance you need. This clearance is mainly for batteries, so don't forget to add +2mm to both the case and plate brass standoffs as well.
 
-2 bottom can be either 3mm or 5mm, depending on the bottom clearance you want. This is mainly for batteries, just dont forget to add +2mm both case and plate brass standoffs too). 
+![MCU Image](/pics/mcu.jpg)
 
-
-![Image](/pics/mcu.jpg)
-
-4a top - If your MCU is taller than plate, use 1x of this and 1x of 4 top instead. Though I recommend using millmax pins and trimming the excess pins so they stay flushed on top of plate (in my case, harvested RGB header pins since they are cheaper.)
+**Top Layer (4a):**  
+If your MCU is taller than the plate, use 1x of this and 1x of the 4 top layer instead. However, I recommend using millmax pins and trimming the excess so they stay flush with the top of the plate. (In my case, I used harvested RGB header pins since they are cheaper.)
