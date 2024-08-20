@@ -12,7 +12,7 @@ QMK config - None yet
 
 ## Build Guide
 None yet, but for a quick overview:
-* [Solder the MCU](https://raw.githubusercontent.com/gehennaXXIV/Doro56/main/pics/mcu.jpg) with the components facing down, and the TRRS jack on top of the half you are building. The MCU socket footprint was modified to allow [sockets with thick pins to work](https://down-ph.img.susercontent.com/file/sg-11134201-7qvco-ley7fi4ef44v33). You can use milmax pins, or, what I use, harvested gold pins from a 5-pin RGB header (also cheaper). [Sample](https://raw.githubusercontent.com/gehennaXXIV/Doro56/main/pics/sockets.jpg)
+* [Solder the MCU](https://raw.githubusercontent.com/gehennaXXIV/Doro56/main/pics/mcu.jpg) with the components facing down, and the TRRS jack on top of the half you are building. For MCU socketing, the footprint was modified to allow [sockets with thick pins to work](https://down-ph.img.susercontent.com/file/sg-11134201-7qvco-ley7fi4ef44v33). You can use milmax pins, or, what I use, harvested gold pins from a 5-pin RGB header (also cheaper). [Sample 2](https://raw.githubusercontent.com/gehennaXXIV/Doro56/main/pics/sockets.jpg)
 * Bridge the [jumpers](https://raw.githubusercontent.com/gehennaXXIV/Doro56/main/pics/bridge.jpg) on the MCU from underneath, and add other components such as diodes, MX sockets, and the power switch.
 
 ![Image](/pics/pcb.jpg)
