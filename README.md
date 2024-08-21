@@ -8,7 +8,7 @@ A 56-key split keyboard with a reversible PCB that uses normal mods, an exploded
 
 It has a supporting JSON file for https://nickcoutsos.github.io/keymap-editor/
 
-QMK config - None yet
+QMK config - None yet - RP2040 Pro Micro support soon
 
 ## Build Guide
 None yet, but for a quick overview:
