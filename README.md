@@ -27,6 +27,7 @@ None yet, but for a quick overview:
 | Power Switch                |  02   | MSK12C02 |
 | Reset Switch                |  02   | MJTP1250 |
 | JST 2 PH Right Angle Jack   |  02   |          |
+| TRRS Jack                   |  02   |  MJ-4PP-9 or PJ320A |
 | Rotary Encoder              |  02   | EC11 - acrylic case has enough clearance for 22mm knobs |
 
 ***
