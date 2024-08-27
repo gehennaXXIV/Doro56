@@ -16,8 +16,9 @@ QMK config - None yet - RP2040 Pro Micro support soon
 #### v1.1 - Minor Edit
 - **Caps and Enter Footprints**: Changed to a single reversible footprint (previously used two single key footprints rotated).
 - **JST PH Footprint**: Adjusted and relocated for increased flexibility.
-- **PCB Cutout**: Modified to remove blank space between Control and Alt keys, allowing space for a 402030 battery without increasing the case height clearance.
 - **Plate**: Slightly increased the cutout size for the rotary encoder.
+- **PCB Cutout**: Modified to remove blank space between Control and Alt keys, allowing space for a 402030 battery without increasing the case height clearance. See ![Image](/pics/v1.1.jpg)
+
 
 
 ***
