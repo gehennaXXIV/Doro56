@@ -1,4 +1,4 @@
-25009553606910466
+25017237542726547
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -56728,6 +56728,13 @@ connector JST PH top entry
 2
 2
 GHN
+JST_PH_reversible_vert
+JST PH series connector, S2B-PH-K (http://www.jst-mfg.com/product/pdf/eng/ePH.pdf), generated with kicad-footprint-generator
+connector JST PH top entry
+0
+2
+2
+GHN
 Jumper
 
 
@@ -70070,6 +70077,27 @@ Footprint for Arduino Pro Micro and compatible boards, USB pointing away from PC
 24
 24
 PCM_marbastlib-xp-promicroish
+RP2040-Matrix_AC
+Footprint for Waveshare RP2040-Matrix controllers, castellated pads only
+
+0
+23
+23
+PCM_marbastlib-xp-promicroish
+RP2040-Matrix_ACH
+Footprint for Waveshare RP2040-Matrix controllers, through hole and castellated pads
+
+0
+46
+23
+PCM_marbastlib-xp-promicroish
+RP2040-Matrix_AH
+Footprint for Waveshare RP2040-Matrix controllers, through hole
+
+0
+23
+23
+PCM_marbastlib-xp-promicroish
 SuperMini_nRF52840_AH_Reversible
 Footprint for SuperMini nRF52840 (nRF52850 pro-micro compatible controller), Reversible
 
@@ -70106,42 +70134,42 @@ Footprint for SuperMini nRF52840 (nRF52850 pro-micro compatible controller), pro
 24
 PCM_marbastlib-xp-promicroish
 Xiao_nRF52840_ACH
-Footprint for Elite-C controllers, through hole and castellated pads
+Footprint for Seeduino Xiao nRF52840 controllers, through hole and castellated pads
 
 0
 40
 22
 PCM_marbastlib-xp-promicroish
 Xiao_nRF52840_AC_Reflow
-Footprint for Elite-C controllers, through hole and castellated pads
+Footprint for Seeduino Xiao nRF52840 controllers, made for SMD reflow
 
 0
 22
 22
 PCM_marbastlib-xp-promicroish
 Xiao_nRF52840_AH_Pogo
-Footprint for Elite-C controllers, through hole and castellated pads
+Footprint for Seeduino Xiao nRF52840 controllers, made for pin headers and pogo pins for the bottom pads
 
 0
 22
 22
 PCM_marbastlib-xp-promicroish
 Xiao_rp2040_ACH
-Footprint for Elite-C controllers, through hole and castellated pads
+Footprint for Seeduino Xiao RP2040 controllers, through hole and castellated pads
 
 0
 36
 20
 PCM_marbastlib-xp-promicroish
 Xiao_rp2040_AC_Reflow
-Footprint for Elite-C controllers, through hole and castellated pads
+Footprint for Seeduino Xiao RP2040 controllers, made for SMD reflow
 
 0
 20
 20
 PCM_marbastlib-xp-promicroish
 Xiao_rp2040_AH_Pogo
-Footprint for Elite-C controllers, through hole and castellated pads
+Footprint for Seeduino Xiao RP2040 controllers, made for pin headers and pogo pins for the bottom pads
 
 0
 20

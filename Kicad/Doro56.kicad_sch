@@ -2546,12 +2546,6 @@
 		(uuid "6854813d-c0e5-47bd-926a-5c4ff6b14291")
 	)
 	(junction
-		(at 163.83 78.74)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "6a1e51f7-3cc0-4904-a104-6fa24ed920da")
-	)
-	(junction
 		(at 255.27 95.25)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2787,13 +2781,13 @@
 	)
 	(wire
 		(pts
-			(xy 209.55 127) (xy 240.03 127)
+			(xy 260.35 127) (xy 273.05 127)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "0f44a952-71e5-494f-bca8-4db7568c4389")
+		(uuid "0e097854-072a-45bd-9858-f4686ee8c2c2")
 	)
 	(wire
 		(pts
@@ -2977,13 +2971,13 @@
 	)
 	(wire
 		(pts
-			(xy 158.75 73.66) (xy 163.83 73.66)
+			(xy 209.55 127) (xy 240.03 127)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "329cdebc-149c-40ca-abda-8b58c3d749db")
+		(uuid "32931323-b86c-4ba4-9849-08884e25929d")
 	)
 	(wire
 		(pts
@@ -3097,16 +3091,6 @@
 	)
 	(wire
 		(pts
-			(xy 260.35 127) (xy 273.05 127)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "63930a02-7905-40fc-8ecf-9f4b818ee8c2")
-	)
-	(wire
-		(pts
 			(xy 209.55 45.72) (xy 224.79 45.72)
 		)
 		(stroke
@@ -3214,16 +3198,6 @@
 			(type default)
 		)
 		(uuid "7dfe0dcf-e9fa-4d7c-bfc4-212f2c104188")
-	)
-	(wire
-		(pts
-			(xy 163.83 78.74) (xy 168.91 78.74)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7f096897-1a2d-4a47-8b64-07aeaa87f54e")
 	)
 	(wire
 		(pts
@@ -3826,7 +3800,7 @@
 			)
 		)
 	)
-	(global_label "SW33A"
+	(global_label "SW32A"
 		(shape input)
 		(at 113.03 114.3 0)
 		(fields_autoplaced yes)
@@ -3892,7 +3866,7 @@
 			)
 		)
 	)
-	(global_label "SW33A"
+	(global_label "SW32A"
 		(shape input)
 		(at 256.54 95.25 0)
 		(fields_autoplaced yes)
@@ -4046,7 +4020,7 @@
 			)
 		)
 	)
-	(global_label "SW33B"
+	(global_label "SW32B"
 		(shape input)
 		(at 113.03 119.38 0)
 		(fields_autoplaced yes)
@@ -4244,7 +4218,7 @@
 			)
 		)
 	)
-	(global_label "SW33B"
+	(global_label "SW32B"
 		(shape input)
 		(at 265.43 99.06 180)
 		(fields_autoplaced yes)
@@ -4652,7 +4626,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "012a8250-de39-4d26-a5e1-b7688d965368")
-		(property "Reference" "SW29"
+		(property "Reference" "SW28"
 			(at 212.09 109.22 0)
 			(effects
 				(font
@@ -4704,7 +4678,7 @@
 		(instances
 			(project "Doro56"
 				(path "/66443d69-f594-44f0-97f8-81b5f08a0d21"
-					(reference "SW29")
+					(reference "SW28")
 					(unit 1)
 				)
 			)
@@ -4720,7 +4694,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "01e7b41b-bfe5-457d-af9e-391cf78b07a1")
-		(property "Reference" "SW27"
+		(property "Reference" "SW26"
 			(at 161.29 109.22 0)
 			(effects
 				(font
@@ -4772,7 +4746,7 @@
 		(instances
 			(project "Doro56"
 				(path "/66443d69-f594-44f0-97f8-81b5f08a0d21"
-					(reference "SW27")
+					(reference "SW26")
 					(unit 1)
 				)
 			)
@@ -4876,7 +4850,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0497f415-f4e7-4b98-8705-5533ee6756cd")
-		(property "Reference" "SW17"
+		(property "Reference" "SW16"
 			(at 207.01 68.58 0)
 			(effects
 				(font
@@ -4928,7 +4902,7 @@
 		(instances
 			(project "Doro56"
 				(path "/66443d69-f594-44f0-97f8-81b5f08a0d21"
-					(reference "SW17")
+					(reference "SW16")
 					(unit 1)
 				)
 			)
@@ -4944,7 +4918,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "054e3623-a5f4-4eb5-a9f5-11066878c97b")
-		(property "Reference" "D19"
+		(property "Reference" "D18"
 			(at 242.57 81.2799 90)
 			(effects
 				(font
@@ -5016,7 +4990,7 @@
 		(instances
 			(project "Doro56"
 				(path "/66443d69-f594-44f0-97f8-81b5f08a0d21"
-					(reference "D19")
+					(reference "D18")
 					(unit 1)
 				)
 			)
@@ -5184,7 +5158,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "071f9494-a6c1-4e3c-b032-25e5b8860a02")
-		(property "Reference" "SW26"
+		(property "Reference" "SW25"
 			(at 237.49 88.9 0)
 			(effects
 				(font
@@ -5236,7 +5210,7 @@
 		(instances
 			(project "Doro56"
 				(path "/66443d69-f594-44f0-97f8-81b5f08a0d21"
-					(reference "SW26")
+					(reference "SW25")
 					(unit 1)
 				)
 			)
@@ -5393,7 +5367,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "15ce9978-815f-420b-b21b-c941cd911aee")
-		(property "Reference" "D23"
+		(property "Reference" "D22"
 			(at 196.85 101.5999 90)
 			(effects
 				(font
@@ -5465,7 +5439,7 @@
 		(instances
 			(project "Doro56"
 				(path "/66443d69-f594-44f0-97f8-81b5f08a0d21"
-					(reference "D23")
+					(reference "D22")
 					(unit 1)
 				)
 			)
@@ -5481,7 +5455,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "19a5bbff-e5f7-4f09-865f-edd6381b39cf")
-		(property "Reference" "D27"
+		(property "Reference" "D26"
 			(at 166.37 121.9199 90)
 			(effects
 				(font
@@ -5553,7 +5527,7 @@
 		(instances
 			(project "Doro56"
 				(path "/66443d69-f594-44f0-97f8-81b5f08a0d21"
-					(reference "D27")
+					(reference "D26")
 					(unit 1)
 				)
 			)
@@ -5657,7 +5631,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1e753423-8e59-4c64-9c95-9d40b9eed919")
-		(property "Reference" "SW31"
+		(property "Reference" "SW30"
 			(at 257.81 109.22 0)
 			(effects
 				(font
@@ -5709,7 +5683,7 @@
 		(instances
 			(project "Doro56"
 				(path "/66443d69-f594-44f0-97f8-81b5f08a0d21"
-					(reference "SW31")
+					(reference "SW30")
 					(unit 1)
 				)
 			)
@@ -5945,7 +5919,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2c1dd853-a301-4039-8b9c-c98ed7cc3cbe")
-		(property "Reference" "D17"
+		(property "Reference" "D16"
 			(at 212.09 81.2799 90)
 			(effects
 				(font
@@ -6017,7 +5991,7 @@
 		(instances
 			(project "Doro56"
 				(path "/66443d69-f594-44f0-97f8-81b5f08a0d21"
-					(reference "D17")
+					(reference "D16")
 					(unit 1)
 				)
 			)
@@ -6169,7 +6143,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3127f812-d2dc-4309-8643-e8436bfd1bdd")
-		(property "Reference" "D24"
+		(property "Reference" "D23"
 			(at 212.09 101.5999 90)
 			(effects
 				(font
@@ -6241,7 +6215,7 @@
 		(instances
 			(project "Doro56"
 				(path "/66443d69-f594-44f0-97f8-81b5f08a0d21"
-					(reference "D24")
+					(reference "D23")
 					(unit 1)
 				)
 			)
@@ -6323,7 +6297,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3286ecf7-a5fd-4b10-848b-353ba9db4592")
-		(property "Reference" "SW25"
+		(property "Reference" "SW24"
 			(at 222.25 88.9 0)
 			(effects
 				(font
@@ -6375,7 +6349,7 @@
 		(instances
 			(project "Doro56"
 				(path "/66443d69-f594-44f0-97f8-81b5f08a0d21"
-					(reference "SW25")
+					(reference "SW24")
 					(unit 1)
 				)
 			)
@@ -6618,7 +6592,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3cdc4f91-9213-4155-a633-857bdc8770b4")
-		(property "Reference" "SW23"
+		(property "Reference" "SW22"
 			(at 191.77 88.9 0)
 			(effects
 				(font
@@ -6670,7 +6644,7 @@
 		(instances
 			(project "Doro56"
 				(path "/66443d69-f594-44f0-97f8-81b5f08a0d21"
-					(reference "SW23")
+					(reference "SW22")
 					(unit 1)
 				)
 			)
@@ -6686,7 +6660,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3f507e73-5d8f-406a-8d83-2a3f6cadccdb")
-		(property "Reference" "SW19"
+		(property "Reference" "SW18"
 			(at 237.49 68.58 0)
 			(effects
 				(font
@@ -6738,7 +6712,7 @@
 		(instances
 			(project "Doro56"
 				(path "/66443d69-f594-44f0-97f8-81b5f08a0d21"
-					(reference "SW19")
+					(reference "SW18")
 					(unit 1)
 				)
 			)
@@ -6754,7 +6728,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4007bb26-47dc-4371-8e69-514ce76906cf")
-		(property "Reference" "D18"
+		(property "Reference" "D17"
 			(at 227.33 81.2799 90)
 			(effects
 				(font
@@ -6826,7 +6800,7 @@
 		(instances
 			(project "Doro56"
 				(path "/66443d69-f594-44f0-97f8-81b5f08a0d21"
-					(reference "D18")
+					(reference "D17")
 					(unit 1)
 				)
 			)
@@ -6842,7 +6816,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "43953194-2027-406a-9e66-296e7baaf468")
-		(property "Reference" "D15"
+		(property "Reference" "D14"
 			(at 181.61 81.2799 90)
 			(effects
 				(font
@@ -6914,7 +6888,7 @@
 		(instances
 			(project "Doro56"
 				(path "/66443d69-f594-44f0-97f8-81b5f08a0d21"
-					(reference "D15")
+					(reference "D14")
 					(unit 1)
 				)
 			)
@@ -7155,7 +7129,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "59bae203-a231-4bed-9084-65c91b029a1a")
-		(property "Reference" "SW28"
+		(property "Reference" "SW27"
 			(at 207.01 109.22 0)
 			(effects
 				(font
@@ -7207,7 +7181,7 @@
 		(instances
 			(project "Doro56"
 				(path "/66443d69-f594-44f0-97f8-81b5f08a0d21"
-					(reference "SW28")
+					(reference "SW27")
 					(unit 1)
 				)
 			)
@@ -7223,7 +7197,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "59e51f37-3aa1-4ba3-a9c1-ca89aaa506db")
-		(property "Reference" "S14"
+		(property "Reference" "S13"
 			(at 142.24 68.4529 0)
 			(effects
 				(font
@@ -7271,7 +7245,7 @@
 		(instances
 			(project "Doro56"
 				(path "/66443d69-f594-44f0-97f8-81b5f08a0d21"
-					(reference "S14")
+					(reference "S13")
 					(unit 1)
 				)
 			)
@@ -7287,7 +7261,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "59e81fea-82aa-4ad1-bfaf-103fcb79da7f")
-		(property "Reference" "D22"
+		(property "Reference" "D21"
 			(at 181.61 101.5999 90)
 			(effects
 				(font
@@ -7359,7 +7333,7 @@
 		(instances
 			(project "Doro56"
 				(path "/66443d69-f594-44f0-97f8-81b5f08a0d21"
-					(reference "D22")
+					(reference "D21")
 					(unit 1)
 				)
 			)
@@ -7375,7 +7349,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5bf660dc-de7a-43cd-bb53-113c01f46385")
-		(property "Reference" "SW16"
+		(property "Reference" "SW15"
 			(at 191.77 68.58 0)
 			(effects
 				(font
@@ -7427,7 +7401,7 @@
 		(instances
 			(project "Doro56"
 				(path "/66443d69-f594-44f0-97f8-81b5f08a0d21"
-					(reference "SW16")
+					(reference "SW15")
 					(unit 1)
 				)
 			)
@@ -7512,7 +7486,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6b91da37-8032-4b14-a9a3-1a4f85099fca")
-		(property "Reference" "SW21"
+		(property "Reference" "SW20"
 			(at 166.37 88.9 0)
 			(effects
 				(font
@@ -7564,7 +7538,7 @@
 		(instances
 			(project "Doro56"
 				(path "/66443d69-f594-44f0-97f8-81b5f08a0d21"
-					(reference "SW21")
+					(reference "SW20")
 					(unit 1)
 				)
 			)
@@ -7580,7 +7554,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6c4fab02-58cf-4c57-951c-f3e475847edb")
-		(property "Reference" "D16"
+		(property "Reference" "D15"
 			(at 196.85 81.2799 90)
 			(effects
 				(font
@@ -7652,7 +7626,7 @@
 		(instances
 			(project "Doro56"
 				(path "/66443d69-f594-44f0-97f8-81b5f08a0d21"
-					(reference "D16")
+					(reference "D15")
 					(unit 1)
 				)
 			)
@@ -7798,7 +7772,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "73a35e35-9572-4339-b9b1-53b90c6e6f66")
-		(property "Reference" "S30"
+		(property "Reference" "S29"
 			(at 142.24 86.2329 0)
 			(effects
 				(font
@@ -7846,7 +7820,7 @@
 		(instances
 			(project "Doro56"
 				(path "/66443d69-f594-44f0-97f8-81b5f08a0d21"
-					(reference "S30")
+					(reference "S29")
 					(unit 1)
 				)
 			)
@@ -7862,7 +7836,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "73c577c9-8a44-412b-bde0-28bf5692f982")
-		(property "Reference" "D31"
+		(property "Reference" "D29"
 			(at 262.89 121.9199 90)
 			(effects
 				(font
@@ -7934,7 +7908,7 @@
 		(instances
 			(project "Doro56"
 				(path "/66443d69-f594-44f0-97f8-81b5f08a0d21"
-					(reference "D31")
+					(reference "D29")
 					(unit 1)
 				)
 			)
@@ -8172,7 +8146,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7880ba5e-8ac5-4bf8-a284-4b8280456f89")
-		(property "Reference" "SW22"
+		(property "Reference" "SW21"
 			(at 176.53 88.9 0)
 			(effects
 				(font
@@ -8224,7 +8198,7 @@
 		(instances
 			(project "Doro56"
 				(path "/66443d69-f594-44f0-97f8-81b5f08a0d21"
-					(reference "SW22")
+					(reference "SW21")
 					(unit 1)
 				)
 			)
@@ -8328,7 +8302,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "89d59d3d-7d2e-4db3-8a15-f6b6a9cb40ed")
-		(property "Reference" "SW24"
+		(property "Reference" "SW23"
 			(at 207.01 88.9 0)
 			(effects
 				(font
@@ -8380,7 +8354,7 @@
 		(instances
 			(project "Doro56"
 				(path "/66443d69-f594-44f0-97f8-81b5f08a0d21"
-					(reference "SW24")
+					(reference "SW23")
 					(unit 1)
 				)
 			)
@@ -8396,7 +8370,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8aa0447a-95fe-4429-a01f-e0eb4e8868bb")
-		(property "Reference" "SW32"
+		(property "Reference" "SW31"
 			(at 262.89 109.22 0)
 			(effects
 				(font
@@ -8448,7 +8422,7 @@
 		(instances
 			(project "Doro56"
 				(path "/66443d69-f594-44f0-97f8-81b5f08a0d21"
-					(reference "SW32")
+					(reference "SW31")
 					(unit 1)
 				)
 			)
@@ -8530,7 +8504,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9129f8f9-d7e1-4923-a8fb-8c3c95917f70")
-		(property "Reference" "D30"
+		(property "Reference" "D28"
 			(at 242.57 121.9199 90)
 			(effects
 				(font
@@ -8602,7 +8576,7 @@
 		(instances
 			(project "Doro56"
 				(path "/66443d69-f594-44f0-97f8-81b5f08a0d21"
-					(reference "D30")
+					(reference "D28")
 					(unit 1)
 				)
 			)
@@ -8618,7 +8592,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "92b4c14d-82a3-4df6-8dac-821d42520c2a")
-		(property "Reference" "D25"
+		(property "Reference" "D24"
 			(at 227.33 101.5999 90)
 			(effects
 				(font
@@ -8690,7 +8664,7 @@
 		(instances
 			(project "Doro56"
 				(path "/66443d69-f594-44f0-97f8-81b5f08a0d21"
-					(reference "D25")
+					(reference "D24")
 					(unit 1)
 				)
 			)
@@ -8722,7 +8696,7 @@
 				)
 			)
 		)
-		(property "Footprint" "GHN:MX 1.75 STP 1.25"
+		(property "Footprint" "GHN:MX Rev 1U"
 			(at 161.29 76.2 0)
 			(effects
 				(font
@@ -9066,7 +9040,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a88762e0-897b-4fb7-93f7-ed5fbd903a0f")
-		(property "Reference" "D20"
+		(property "Reference" "D19"
 			(at 166.37 101.5999 90)
 			(effects
 				(font
@@ -9138,7 +9112,7 @@
 		(instances
 			(project "Doro56"
 				(path "/66443d69-f594-44f0-97f8-81b5f08a0d21"
-					(reference "D20")
+					(reference "D19")
 					(unit 1)
 				)
 			)
@@ -9154,7 +9128,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a9e468ee-67a2-4b51-ae2e-fb882879b2a8")
-		(property "Reference" "D28"
+		(property "Reference" "D27"
 			(at 212.09 121.9199 90)
 			(effects
 				(font
@@ -9226,7 +9200,7 @@
 		(instances
 			(project "Doro56"
 				(path "/66443d69-f594-44f0-97f8-81b5f08a0d21"
-					(reference "D28")
+					(reference "D27")
 					(unit 1)
 				)
 			)
@@ -9457,74 +9431,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Switch:SW_Push_45deg")
-		(at 166.37 76.2 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "b41c32a0-8314-4743-b75b-a121f3da0ccd")
-		(property "Reference" "SW14"
-			(at 166.37 68.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SW_Push_45deg"
-			(at 166.37 71.12 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "GHN:MX 2.25U"
-			(at 166.37 76.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 166.37 76.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
-			(at 166.37 76.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "ced17e05-eb52-498c-b52a-fc64eeff5996")
-		)
-		(pin "1"
-			(uuid "be16b802-0c17-45ec-bf0e-c9feb84d0601")
-		)
-		(instances
-			(project "Doro56"
-				(path "/66443d69-f594-44f0-97f8-81b5f08a0d21"
-					(reference "SW14")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:D")
 		(at 265.43 102.87 90)
 		(unit 1)
@@ -9534,7 +9440,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b421a26a-aa2e-4ceb-8d38-bf9126918d4c")
-		(property "Reference" "D14"
+		(property "Reference" "D32"
 			(at 267.97 101.5999 90)
 			(effects
 				(font
@@ -9606,7 +9512,7 @@
 		(instances
 			(project "Doro56"
 				(path "/66443d69-f594-44f0-97f8-81b5f08a0d21"
-					(reference "D14")
+					(reference "D32")
 					(unit 1)
 				)
 			)
@@ -9756,7 +9662,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c4b0c09d-d839-4750-80e7-7f32bbfd341f")
-		(property "Reference" "SW20"
+		(property "Reference" "SW19"
 			(at 161.29 88.9 0)
 			(effects
 				(font
@@ -9808,7 +9714,7 @@
 		(instances
 			(project "Doro56"
 				(path "/66443d69-f594-44f0-97f8-81b5f08a0d21"
-					(reference "SW20")
+					(reference "SW19")
 					(unit 1)
 				)
 			)
@@ -9958,7 +9864,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "cb49e71a-f26c-4143-8aa7-abfbcd35a298")
-		(property "Reference" "D26"
+		(property "Reference" "D25"
 			(at 242.57 101.5999 90)
 			(effects
 				(font
@@ -10030,7 +9936,7 @@
 		(instances
 			(project "Doro56"
 				(path "/66443d69-f594-44f0-97f8-81b5f08a0d21"
-					(reference "D26")
+					(reference "D25")
 					(unit 1)
 				)
 			)
@@ -10046,7 +9952,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "cbea3e4b-bf0f-4680-9cf9-e6a46f85b8e6")
-		(property "Reference" "SW30"
+		(property "Reference" "SW29"
 			(at 237.49 109.22 0)
 			(effects
 				(font
@@ -10098,7 +10004,7 @@
 		(instances
 			(project "Doro56"
 				(path "/66443d69-f594-44f0-97f8-81b5f08a0d21"
-					(reference "SW30")
+					(reference "SW29")
 					(unit 1)
 				)
 			)
@@ -10248,7 +10154,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d4e87242-1002-436e-8756-b143ab7ddfbc")
-		(property "Reference" "SW18"
+		(property "Reference" "SW17"
 			(at 222.25 68.58 0)
 			(effects
 				(font
@@ -10300,7 +10206,7 @@
 		(instances
 			(project "Doro56"
 				(path "/66443d69-f594-44f0-97f8-81b5f08a0d21"
-					(reference "SW18")
+					(reference "SW17")
 					(unit 1)
 				)
 			)
@@ -10600,7 +10506,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e1efe0ea-685c-472d-a96b-c3afc426b529")
-		(property "Reference" "S20"
+		(property "Reference" "SS19"
 			(at 142.24 77.3429 0)
 			(effects
 				(font
@@ -10648,7 +10554,7 @@
 		(instances
 			(project "Doro56"
 				(path "/66443d69-f594-44f0-97f8-81b5f08a0d21"
-					(reference "S20")
+					(reference "SS19")
 					(unit 1)
 				)
 			)
@@ -10664,7 +10570,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e38dd472-c219-4681-bc3a-102cbcfcac29")
-		(property "Reference" "SW15"
+		(property "Reference" "SW14"
 			(at 176.53 68.58 0)
 			(effects
 				(font
@@ -10716,7 +10622,7 @@
 		(instances
 			(project "Doro56"
 				(path "/66443d69-f594-44f0-97f8-81b5f08a0d21"
-					(reference "SW15")
+					(reference "SW14")
 					(unit 1)
 				)
 			)
@@ -10993,7 +10899,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "GHN:JST_PH_reversible"
+		(property "Footprint" "GHN:JST_PH_reversible_vert"
 			(at 97.79 84.836 90)
 			(effects
 				(font
