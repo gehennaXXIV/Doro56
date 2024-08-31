@@ -10506,7 +10506,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e1efe0ea-685c-472d-a96b-c3afc426b529")
-		(property "Reference" "SS19"
+		(property "Reference" "S19"
 			(at 142.24 77.3429 0)
 			(effects
 				(font
@@ -10554,7 +10554,7 @@
 		(instances
 			(project "Doro56"
 				(path "/66443d69-f594-44f0-97f8-81b5f08a0d21"
-					(reference "SS19")
+					(reference "S19")
 					(unit 1)
 				)
 			)
