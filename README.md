@@ -57,7 +57,7 @@ None yet, but for a quick overview:
 | M2 6mm Wafer Head Screws                 |  20   | Plate screws |
 | M2 10mm Round Standoff Spacer            |  10   | Plate standoffs, add +2mm if you need bottom clearance (see case readme) |
 | M2 8mm Wafer Head Screws                 |  32   | Case screws |
-| M2 13mm Round Standoff Spacer            |  16   | Case standoffs, add +2mm if you need bottom clearance (see case readme) |
+| M2 13mm Round Standoff Spacer            |  16   | Case standoffs, add +2mm if you need bottom clearance (see case readme) ; can also be -1mm if it's protruding the middle layer |
 | Rubber Feet                              |  08   | Currently, the keyboard lays flat. I’ve yet to design a base layer for angled feet |
 
 ***
