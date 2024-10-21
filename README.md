@@ -13,6 +13,9 @@ QMK config - None yet - RP2040 Pro Micro support soon
 ***
 ## Changelog
 
+#### v1.2 - Minor Edit
+- **JST PH Footprint**: The footprint has been updated to avoid the need for manually changing plug polarity. Ensure the Red (+) wire matches the plug's positive pin as the 2 outer pins are negative/ground pins. If your plug isn't matching the indicators, just shift the socket one pin sideways. Note: This socket is installed on the bottom of the half you're building.
+
 #### v1.1 - Minor Edit
 - **Caps and Enter Footprints**: Changed to a single reversible footprint (previously used two single key footprints rotated).
 - **JST PH Footprint**: Adjusted and relocated for increased flexibility.
@@ -23,7 +26,7 @@ QMK config - None yet - RP2040 Pro Micro support soon
 
 ***
 ## Build Guide
-None yet, but for a quick overview:
+Quick overview:
 * [Solder the MCU](https://raw.githubusercontent.com/gehennaXXIV/Doro56/main/pics/mcu.jpg) with the components facing down, and the TRRS jack on top of the half you are building. For MCU socketing, the footprint was modified to allow [sockets with thick pins to work](https://down-ph.img.susercontent.com/file/sg-11134201-7qvco-ley7fi4ef44v33). You can use milmax pins, or, what I use, harvested gold pins from a 5-pin RGB header (also cheaper). [Sample 2](https://raw.githubusercontent.com/gehennaXXIV/Doro56/main/pics/sockets.jpg)
 * Bridge the [jumpers](https://raw.githubusercontent.com/gehennaXXIV/Doro56/main/pics/bridge.jpg) on the MCU from underneath, and add other components such as diodes, MX sockets, and the power switch.
 

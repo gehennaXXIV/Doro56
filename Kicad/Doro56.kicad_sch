@@ -7417,7 +7417,7 @@
 		(dnp no)
 		(uuid "5d434264-f83d-4389-ba48-48b5b0a13e14")
 		(property "Reference" "BT2"
-			(at 96.52 83.2484 0)
+			(at 88.9 83.312 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7426,7 +7426,7 @@
 			)
 		)
 		(property "Value" "Battery_Cell"
-			(at 96.52 85.7884 0)
+			(at 82.296 87.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10882,7 +10882,7 @@
 		(dnp no)
 		(uuid "f700cacc-4d63-4f42-b27f-f4aeaad885ff")
 		(property "Reference" "BT1"
-			(at 101.6 83.2484 0)
+			(at 99.822 83.312 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10891,7 +10891,7 @@
 			)
 		)
 		(property "Value" "Battery_Cell"
-			(at 101.6 85.7884 0)
+			(at 96.52 87.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10899,7 +10899,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "GHN:JST_PH_reversible_vert"
+		(property "Footprint" "GHN:JST_PH_2P_Reversible"
 			(at 97.79 84.836 90)
 			(effects
 				(font
