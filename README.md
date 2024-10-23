@@ -2,7 +2,6 @@
 ***
 ![Image](/pics/build.jpg)
 ![Image](/pics/build2.jpg)
-![Image](/pics/build3.jpg)
 
 
 A 56-key split keyboard with a reversible PCB that uses normal mods, an exploded number row, a semi-columnar staggered layout, plus support for rotary encoders. Mainly inspired by Alice layouts and split boards like the Lily58 and Corne.
