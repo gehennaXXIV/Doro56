@@ -1,12 +1,14 @@
 # Doro56
 ***
 ![Image](/pics/build.jpg)
+![Image](/pics/build2.jpg)
+![Image](/pics/build3.jpg)
 
-A 56-key split keyboard with a reversible PCB that uses normal mods, an exploded number row, a semi-columnar staggered layout, plus support for rotary encoders.
+
+A 56-key split keyboard with a reversible PCB that uses normal mods, an exploded number row, a semi-columnar staggered layout, plus support for rotary encoders. Mainly inspired by Alice layouts and split boards like the Lily58 and Corne.
 
 [ZMK config](https://github.com/gehennaXXIV/zmk-config-Doro56)
-
-It has a supporting JSON file for https://nickcoutsos.github.io/keymap-editor/
+ - It has a supporting JSON file for https://nickcoutsos.github.io/keymap-editor/
 
 QMK config - None yet - RP2040 Pro Micro support soon
 

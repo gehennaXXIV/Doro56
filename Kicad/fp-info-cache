@@ -1,4 +1,4 @@
-25560802686625248
+25565919315441309
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -57729,7 +57729,21 @@ Fuse Fuseholder TR5 Littelfuse/Wickmann No. 460 No560
 2
 2
 GHN
+Choc V1 - Reversible
+Hotswap footprint for Kailh Choc style switches
+
+0
+8
+2
+GHN
 D_1N4148W_SOD123_SMD
+Diode, DO-41, SOD81, Horizontal, RM 10mm,
+Diode, DO-41, SOD81, Horizontal, RM 10mm, 1N4007, SB140,
+0
+2
+2
+GHN
+Diode_SOD123
 Diode, DO-41, SOD81, Horizontal, RM 10mm,
 Diode, DO-41, SOD81, Horizontal, RM 10mm, 1N4007, SB140,
 0
@@ -57777,6 +57791,13 @@ haniel
 0
 0
 0
+GHN
+nice_view
+
+
+0
+5
+5
 Heatsink
 Heatsink_35x26mm_1xFixation3mm_Fischer-SK486-35
 Heatsink, 35mm x 26mm, 1x Fixation 3mm, Fischer SK486-35
