@@ -7,7 +7,7 @@
 A 56-key split keyboard with a reversible PCB that uses normal mods, an exploded number row, a semi-columnar staggered layout, plus support for rotary encoders. Mainly inspired by Alice layouts and split boards like the Lily58 and Corne.
 
 [ZMK config](https://github.com/gehennaXXIV/zmk-config-Doro56)
- - It has a supporting JSON file for https://nickcoutsos.github.io/keymap-editor/
+ - support for https://nickcoutsos.github.io/keymap-editor/ and https://zmk.studio/
 
 QMK config - None yet - RP2040 Pro Micro support soon
 
@@ -37,7 +37,7 @@ Quick overview:
 ## PARTS
 | **COMPONENTS**             |  Qty  |  Remarks |
 | :------------------------- | :---: | :------  |
-| Diodes 1N4148W (SMD)        |  56   | SOD-123  |
+| Diodes 1N4148W (SMD)        |  58   | SOD-123  |
 | MX Switch Sockets           |  56   |          |
 | 2U PCB-Mount Stabilizers    |  04   |          |
 | Power Switch                |  02   | MSK12C02 |
@@ -49,10 +49,10 @@ Quick overview:
 ***
 | **MCU**                        |  Qty  |  Remarks |
 | :----------------------------- | :---: | :------  |
-| Low Profile MCU sockets        |  04   |  Does not need to be expensive milmax sockets. The MCU socket footprint was modified to allow [sockets with thick pins to work](https://down-ph.img.susercontent.com/file/sg-11134201-7qvco-ley7fi4ef44v33) |
+| Low Profile MCU sockets        |  04   |  The MCU socket footprint was modified to allow [sockets with thick pins to work](https://down-ph.img.susercontent.com/file/sg-11134201-7qvco-ley7fi4ef44v33). This will make the build cheaper compared to buying Millmax sockets. |
 | Mill Max Pins                  |  48   |  Mouser 3320-0-00-15-00-00-03-0, or a cheaper option: harvested gold pins from a 5-pin RGB header (just snip off the plastic parts) |
 | Nice Nanos                     |  02   |  or NRF52840 clones |
-| Li-Po Battery                  |  02   |  **Take note of the polarity before plugging it in.** [Here's a tutorial on how to change the polarity.](https://www.youtube.com/watch?v=za-azgbZor8) |
+| Li-Po Battery                  |  02   |  **Take note of the polarity before plugging the battery in.** [Here's a tutorial on how to change the polarity.](https://www.youtube.com/watch?v=za-azgbZor8) |
 
 ***
 | **CASE**                                |  Qty  |  Remarks |
